@@ -1,4 +1,4 @@
-package Codsoft_internship_projects.ATM_INTERFACE;
+package Codsoft_internship_projects.codsoft_tast_3;
 import java.util.*;
 public class ATM_interface {
     public static void main(String args[]){

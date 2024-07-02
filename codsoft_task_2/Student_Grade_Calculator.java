@@ -1,4 +1,4 @@
-package Codsoft_internship_projects;
+package Codsoft_internship_projects.codsoft_task_2;
 import java.util.*;
 public class Student_Grade_Calculator {
     public static void main(String args[]){

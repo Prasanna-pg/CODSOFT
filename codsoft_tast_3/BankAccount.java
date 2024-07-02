@@ -1,5 +1,5 @@
-package Codsoft_internship_projects.ATM_INTERFACE;
-import java.util.*;
+package Codsoft_internship_projects.codsoft_tast_3;
+
 public class BankAccount{
     private double balance;
     public BankAccount(double initialBalance){

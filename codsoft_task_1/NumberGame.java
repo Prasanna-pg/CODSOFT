@@ -1,4 +1,4 @@
-package Codsoft_internship_projects;
+package Codsoft_internship_projects.codsoft_task_1;
 import java.util.*;
 public class NumberGame {
     public static void main(String args[]){
